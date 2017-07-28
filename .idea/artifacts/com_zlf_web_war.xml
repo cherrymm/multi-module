@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.zlf.web:war">
+    <output-path>$PROJECT_DIR$/com.zlf.web/target</output-path>
+    <root id="archive" name="com.zlf.web.war">
+      <element id="artifact" artifact-name="com.zlf.web:war exploded" />
+    </root>
+  </artifact>
+</component>

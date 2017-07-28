@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.zlf.dao" />
+        <module name="com.zlf.domain" />
+        <module name="com.zlf.service" />
+        <module name="com.zlf.util" />
+        <module name="com.zlf.web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.zlf.dao" target="1.8" />
+      <module name="com.zlf.domain" target="1.8" />
+      <module name="com.zlf.root" target="1.5" />
+      <module name="com.zlf.service" target="1.8" />
+      <module name="com.zlf.util" target="1.8" />
+      <module name="com.zlf.web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
